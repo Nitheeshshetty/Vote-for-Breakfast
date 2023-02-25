@@ -1,4 +1,5 @@
 Steps to Run the project
+
 1)First open the folder in VS code or Atom
 2)Then go to respective terminals like vs code terminal
  and change the directory to server directory(in my project) using cs server/
